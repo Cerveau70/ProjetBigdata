@@ -1,0 +1,1186 @@
+&	2
+(100Kw),-6 000€ 1,0,235 €	1
+(105ch)	1
+(110ch)	4
+(114ch)	42
+(122h)	1
+(136	1
+(136ch)",-6 000€ 1,0,203 €	1
+(136ch),-6 000€ 1,0,214 €	1
+(136ch),-6 000€ 1,0,251 €	1
+(141ch),-,29,47 €	1
+(143ch)	84
+(153Kw),-6 000€ 1,0,202 €	1
+(155Kw),-6 000€ 1,0,202 €	1
+(156ch)	1
+(158Kw),-6 000€ 1,0,247 €	1
+(163ch)	98
+(169Kw),-6 000€ 1,0,247 €	1
+(170ch)	4
+(177Kw),-6 000€ 1,0,247 €	1
+(177Kw),-6 000€ 1,0,293 €	1
+(180Kw),-6 000€ 1,0,247 €	1
+(180Kw),-6 000€ 1,0,293 €	1
+(180ch)	2
+(190ch)	52
+(200ch)	2
+(204ch)	2
+(204ch)",-6 000€ 1,0,212 €	1
+(204ch),-6 000€ 1,0,214 €	1
+(205ch),-,33,56 €	1
+(218ch)	8
+(262ch)	1
+(299ch)	2
+(303	1
+(313ch)	2
+(367ch)	2
+(390ch)	7
+(400	1
+(404CH),-,69,78 €	1
+(404ch)	4
+(408ch)	2
+(43Kw),-6 000€ 1,0,206 €	1
+(51Kw),-6 000€ 1,0,206 €	1
+(53Kw),-6 000€ 1,0,206 €	1
+(60.5ch)	1
+(67ch)	1
+(67ch),-6 000€ 1,0,241 €	1
+(82ch)	2
+(85kW)	2
+(F56),-6 000€ 1,0,199 €	1
+(F60),-,43,53 €	1
++	9
+,Marque	1
+-	2
+/	4
+1.0,58,courte,5,3,blanc,false,8850	1
+1.0,58,courte,5,3,bleu,false,8850	1
+1.0,58,courte,5,3,gris,false,8850	1
+1.0,58,courte,5,3,noir,false,8850	1
+1.0,58,courte,5,3,rouge,false,8850	1
+1.1,65,courte,5,5,blanc,false,8990	1
+1.1,65,courte,5,5,bleu,false,8990	1
+1.1,65,courte,5,5,gris,false,8990	1
+1.1,65,courte,5,5,noir,false,8990	1
+1.1,65,courte,5,5,rouge,false,8990	1
+1.2	10
+1.4	18
+1.4,75,courte,5,5,blanc,false,13750	1
+1.4,75,courte,5,5,blanc,false,18310	1
+1.4,75,courte,5,5,blanc,true,12817	1
+1.4,75,courte,5,5,blanc,true,9625	1
+1.4,75,courte,5,5,bleu,false,13750	1
+1.4,75,courte,5,5,bleu,false,18310	1
+1.4,75,courte,5,5,bleu,true,12817	1
+1.4,75,courte,5,5,bleu,true,9625	1
+1.4,75,courte,5,5,gris,false,13750	1
+1.4,75,courte,5,5,gris,false,18310	1
+1.4,75,courte,5,5,gris,true,12817	1
+1.4,75,courte,5,5,gris,true,9625	1
+1.4,75,courte,5,5,noir,false,13750	1
+1.4,75,courte,5,5,noir,false,18310	1
+1.4,75,courte,5,5,noir,true,12817	1
+1.4,75,courte,5,5,noir,true,9625	1
+1.4,75,courte,5,5,rouge,false,13750	1
+1.4,75,courte,5,5,rouge,false,18310	1
+1.4,75,courte,5,5,rouge,true,12817	1
+1.4,75,courte,5,5,rouge,true,9625	1
+1.6	16
+1.6,102,longue,5,5,blanc,false,18880	1
+1.6,102,longue,5,5,bleu,false,18880	1
+1.6,102,longue,5,5,gris,false,18880	1
+1.6,102,longue,5,5,noir,false,18880	1
+1.6,102,longue,5,5,rouge,false,18880	1
+1.6,103,longue,7,5,blanc,false,15960	1
+1.6,103,longue,7,5,bleu,false,15960	1
+1.6,103,longue,7,5,gris,false,15960	1
+1.6,103,longue,7,5,noir,false,15960	1
+1.6,103,longue,7,5,rouge,false,15960	1
+1.6,109,longue,5,5,blanc,false,18650	1
+1.6,109,longue,5,5,bleu,false,18650	1
+1.6,109,longue,5,5,gris,false,18650	1
+1.6,109,longue,5,5,noir,false,18650	1
+1.6,109,longue,5,5,rouge,false,18650	1
+1.7,125,longue,7,5,blanc,false,19550	1
+1.7,125,longue,7,5,bleu,false,19550	1
+1.7,125,longue,7,5,gris,false,19550	1
+1.7,125,longue,7,5,noir,false,19550	1
+1.7,125,longue,7,5,rouge,false,19550	1
+1.8,110,moyenne,5,5,blanc,false,26630	1
+1.8,110,moyenne,5,5,blanc,true,18641	1
+1.8,110,moyenne,5,5,bleu,false,26630	1
+1.8,110,moyenne,5,5,bleu,true,18641	1
+1.8,110,moyenne,5,5,gris,false,26630	1
+1.8,110,moyenne,5,5,gris,true,18641	1
+1.8,110,moyenne,5,5,noir,false,26630	1
+1.8,110,moyenne,5,5,noir,true,18641	1
+1.8,110,moyenne,5,5,rouge,false,26630	1
+1.8,110,moyenne,5,5,rouge,true,18641	1
+1.8,115,moyenne,5,5,blanc,false,16450	1
+1.8,115,moyenne,5,5,bleu,false,16450	1
+1.8,115,moyenne,5,5,gris,false,16450	1
+1.8,115,moyenne,5,5,noir,false,16450	1
+1.8,115,moyenne,5,5,rouge,false,16450	1
+1.8,125,longue,5,5,blanc,false,23900	1
+1.8,125,longue,5,5,blanc,true,16730	1
+1.8,125,longue,5,5,bleu,false,23900	1
+1.8,125,longue,5,5,bleu,true,16730	1
+1.8,125,longue,5,5,gris,false,23900	1
+1.8,125,longue,5,5,gris,true,16730	1
+1.8,125,longue,5,5,noir,false,23900	1
+1.8,125,longue,5,5,noir,true,16730	1
+1.8,125,longue,5,5,rouge,false,23900	1
+1.8,125,longue,5,5,rouge,true,16730	1
+1.8T,150,longue,5,5,blanc,false,38600	1
+1.8T,150,longue,5,5,blanc,true,27020	1
+1.8T,150,longue,5,5,bleu,false,38600	1
+1.8T,150,longue,5,5,bleu,true,27020	1
+1.8T,150,longue,5,5,gris,false,38600	1
+1.8T,150,longue,5,5,gris,true,27020	1
+1.8T,150,longue,5,5,noir,false,38600	1
+1.8T,150,longue,5,5,noir,true,27020	1
+1.8T,150,longue,5,5,rouge,false,38600	1
+1.8T,150,longue,5,5,rouge,true,27020	1
+10,DS	1
+100,VOLVO	1
+100kW	2
+101,AUDI	1
+102,AUDI	1
+103,MITSUBISHI	1
+104,MITSUBISHI	1
+105,VOLKSWAGEN	1
+107,VOLKSWAGEN	1
+108,VOLVO	1
+109,VOLVO	1
+11,HYUNDAI	1
+110,VOLVO	1
+111,VOLVO	1
+112,AUDI	1
+113,BMW	1
+114,BMW	1
+115,BMW	1
+116,VOLVO	1
+117,VOLVO	1
+118,MINI	1
+119,AUDI	1
+12,HYUNDAI	1
+120	2
+120,AUDI	1
+121,BMW	1
+122,BMW	1
+123,MERCEDES	1
+124,BMW	1
+125,BMW	1
+126,BMW	1
+128,MERCEDES	1
+129,BMW	1
+13,JAGUAR	1
+130,VOLVO	1
+131,VOLVO	1
+132,VOLVO	1
+133,AUDI	1
+134,BMW	1
+135,MERCEDES	1
+136,MERCEDES	1
+136ch	2
+137,BMW	1
+138,BMW	1
+139,MERCEDES	1
+14''	1
+14,"KIA	1
+140,PORSCHE	1
+141,PORSCHE	1
+142,PORSCHE	1
+143,PORSCHE	1
+144,LAND	1
+145,LAND	1
+146,LAND	1
+147,LAND	1
+149,LAND	1
+15''	1
+15,"KIA	1
+150	1
+150,PORSCHE	1
+150kW	1
+151,PORSCHE	1
+152,PORSCHE	1
+153,PORSCHE	1
+154,PORSCHE	1
+155,PORSCHE	1
+156,PORSCHE	1
+157,PORSCHE	1
+158,BENTLEY	1
+159,BENTLEY	1
+16,KIA	1
+160,PORSCHE	1
+161,PORSCHE	1
+162,MERCEDES	1
+163,MERCEDES	1
+164,MERCEDES	1
+165,MERCEDES	1
+166,MERCEDES	1
+167,MERCEDES	1
+168,MERCEDES	1
+16V,115,courte,5,5,blanc,false,18200	1
+16V,115,courte,5,5,blanc,true,12740	1
+16V,115,courte,5,5,bleu,false,18200	1
+16V,115,courte,5,5,bleu,true,12740	1
+16V,115,courte,5,5,gris,false,18200	1
+16V,115,courte,5,5,gris,true,12740	1
+16V,115,courte,5,5,noir,false,18200	1
+16V,115,courte,5,5,noir,true,12740	1
+16V,115,courte,5,5,rouge,false,18200	1
+16V,115,courte,5,5,rouge,true,12740	1
+16V,135,moyenne,5,5,blanc,false,22350	1
+16V,135,moyenne,5,5,blanc,true,15644	1
+16V,135,moyenne,5,5,bleu,false,22350	1
+16V,135,moyenne,5,5,bleu,true,15644	1
+16V,135,moyenne,5,5,gris,false,22350	1
+16V,135,moyenne,5,5,gris,true,15644	1
+16V,135,moyenne,5,5,noir,false,22350	1
+16V,135,moyenne,5,5,noir,true,15644	1
+16V,135,moyenne,5,5,rouge,false,22350	1
+16V,135,moyenne,5,5,rouge,true,15644	1
+16V,90,courte,5,3,blanc,false,13500	1
+16V,90,courte,5,3,blanc,true,9450	1
+16V,90,courte,5,3,bleu,false,13500	1
+16V,90,courte,5,3,bleu,true,9450	1
+16V,90,courte,5,3,gris,false,13500	1
+16V,90,courte,5,3,gris,true,9450	1
+16V,90,courte,5,3,noir,false,13500	1
+16V,90,courte,5,3,noir,true,9450	1
+16V,90,courte,5,3,rouge,false,13500	1
+16V,90,courte,5,3,rouge,true,9450	1
+17""	4
+17""/18""/19""	4
+17''	1
+17,KIA	1
+170,MERCEDES	1
+171,MERCEDES	1
+172,MERCEDES	1
+173,MERCEDES	1
+174,MERCEDES	1
+175,MERCEDES	1
+176,MERCEDES	1
+177,MERCEDES	1
+178,MERCEDES	1
+179,MERCEDES	1
+18,MERCEDES	1
+180,MERCEDES	1
+181,MERCEDES	1
+182,MERCEDES	1
+183,MERCEDES	1
+184,MERCEDES	1
+185,MERCEDES	1
+186,MERCEDES	1
+187,MERCEDES	1
+188,MERCEDES	1
+189,MERCEDES	1
+19,MERCEDES	1
+191,MERCEDES	1
+192,MERCEDES	1
+193,MERCEDES	1
+194,MERCEDES	1
+195,MERCEDES	1
+196,MERCEDES	1
+197,MERCEDES	1
+198,MERCEDES	1
+199,MERCEDES	1
+2,-6 000€ 1,0,201 €	3
+2,-6 000€ 1,0,213 €	2
+2,AUDI	1
+2.0	44
+2.0T,165,longue,7,5,blanc,false,30350	1
+2.0T,165,longue,7,5,blanc,true,21245	1
+2.0T,165,longue,7,5,bleu,false,30350	1
+2.0T,165,longue,7,5,bleu,true,21245	1
+2.0T,165,longue,7,5,gris,false,30350	1
+2.0T,165,longue,7,5,gris,true,21245	1
+2.0T,165,longue,7,5,noir,false,30350	1
+2.0T,165,longue,7,5,noir,true,21245	1
+2.0T,165,longue,7,5,rouge,false,30350	1
+2.0T,165,longue,7,5,rouge,true,21245	1
+2.0T,170,longue,5,5,blanc,false,27300	1
+2.0T,170,longue,5,5,blanc,true,19110	1
+2.0T,170,longue,5,5,bleu,false,27300	1
+2.0T,170,longue,5,5,bleu,true,19110	1
+2.0T,170,longue,5,5,gris,false,27300	1
+2.0T,170,longue,5,5,gris,true,19110	1
+2.0T,170,longue,5,5,noir,false,27300	1
+2.0T,170,longue,5,5,noir,true,19110	1
+2.0T,170,longue,5,5,rouge,false,27300	1
+2.0T,170,longue,5,5,rouge,true,19110	1
+2.2,147,longue,5,5,blanc,false,24780	1
+2.2,147,longue,5,5,blanc,true,17346	1
+2.2,147,longue,5,5,bleu,false,24780	1
+2.2,147,longue,5,5,bleu,true,17346	1
+2.2,147,longue,5,5,gris,false,24780	1
+2.2,147,longue,5,5,gris,true,17346	1
+2.2,147,longue,5,5,noir,false,24780	1
+2.2,147,longue,5,5,noir,true,17346	1
+2.2,147,longue,5,5,rouge,false,24780	1
+2.2,147,longue,5,5,rouge,true,17346	1
+2.3	8
+2.5	10
+2.8	5
+20,MERCEDES	1
+200	1
+200,MERCEDES	1
+201,MERCEDES	1
+202,MERCEDES	1
+203,MERCEDES	1
+204,MERCEDES	1
+204ch	2
+205,MERCEDES	1
+206,MERCEDES	1
+207,MERCEDES	1
+208	1
+208,MERCEDES	1
+209,MERCEDES	1
+21,MINI	1
+210,MERCEDES	1
+212,MERCEDES	1
+213,MERCEDES	1
+214,MERCEDES	1
+215,MERCEDES	1
+216,MERCEDES	1
+217,MERCEDES	1
+218,MERCEDES	1
+219,MERCEDES	1
+22	5
+220,MERCEDES	1
+221,MERCEDES	1
+222,MERCEDES	1
+223,MERCEDES	1
+224,MERCEDES	1
+225,MERCEDES	1
+225xe	2
+226,MERCEDES	1
+227,MERCEDES	1
+228,MERCEDES	1
+229,MERCEDES	1
+23,NISSAN	1
+230,MERCEDES	1
+231,MERCEDES	1
+233,MERCEDES	1
+234,MERCEDES	1
+235,MERCEDES	1
+236,MERCEDES	1
+237,MERCEDES	1
+238,MERCEDES	1
+239,MERCEDES	1
+24,NISSAN	1
+240,MERCEDES	1
+241,MERCEDES	1
+242,MERCEDES	1
+243,MERCEDES	1
+244,MERCEDES	1
+245,MERCEDES	1
+246,MERCEDES	1
+247,MERCEDES	1
+248,MERCEDES	1
+249,MERCEDES	1
+25,PEUGEOT	1
+250	3
+250,MERCEDES	1
+251,MERCEDES	1
+252,MERCEDES	1
+254,MERCEDES	1
+255,MERCEDES	1
+256,MERCEDES	1
+257,MERCEDES	1
+258,MERCEDES	1
+259,MERCEDES	1
+26,PEUGEOT	1
+260,MERCEDES	1
+261,MERCEDES	1
+262,MERCEDES	1
+263,MERCEDES	1
+264,MERCEDES	1
+265,MERCEDES	1
+266,MERCEDES	1
+267,MERCEDES	1
+268,MERCEDES	1
+269,MERCEDES	1
+27,PEUGEOT	1
+270,MERCEDES	1
+271,MERCEDES	1
+272,MERCEDES	1
+273,MERCEDES	1
+275,MERCEDES	1
+276,MERCEDES	1
+277,MERCEDES	1
+278,MERCEDES	1
+279,MERCEDES	1
+28,RENAULT	1
+280,MERCEDES	1
+281,MERCEDES	1
+282,MERCEDES	1
+283,MERCEDES	1
+284,MERCEDES	1
+285,MERCEDES	1
+286,MERCEDES	1
+287,MERCEDES	1
+288,MERCEDES	1
+289,MERCEDES	1
+29,RENAULT	1
+290,MERCEDES	1
+291,MERCEDES	1
+292,MERCEDES	1
+293,MERCEDES	1
+294,MERCEDES	1
+296,MERCEDES	1
+297,MERCEDES	1
+298,MERCEDES	1
+299,MERCEDES	1
+3	3
+3,-6 000€ 1,0,175 €	2
+3,-6 000€ 1,0,201 €	1
+3,AUDI	1
+3.0	5
+3.5	10
+30,RENAULT	1
+300	11
+300,MERCEDES	1
+3008	1
+301,MERCEDES	1
+302,MERCEDES	1
+303,MERCEDES	1
+304,MERCEDES	1
+305,MERCEDES	1
+306,MERCEDES	1
+307,MERCEDES	1
+308,MERCEDES	1
+309,MERCEDES	1
+31,SKODA	1
+310,MERCEDES	1
+311	42
+311,MERCEDES	1
+312,MERCEDES	1
+313,MERCEDES	1
+314	84
+314,MERCEDES	1
+315,MERCEDES	1
+316	98
+317,MERCEDES	1
+318,MERCEDES	1
+319	52
+319,MERCEDES	1
+3190	78
+32,SMART	1
+320,MERCEDES	1
+3200kg,-6 000€ 1,0,411 €	2
+321,MERCEDES	1
+322,MERCEDES	1
+323,MERCEDES	1
+324,MERCEDES	1
+325,MERCEDES	1
+326,MERCEDES	1
+327,MERCEDES	1
+328,MERCEDES	1
+329,MERCEDES	1
+33,SMART	1
+330,MERCEDES	1
+330e	1
+331,MERCEDES	1
+332,MERCEDES	1
+333,MERCEDES	1
+334,MERCEDES	1
+335,MERCEDES	1
+336,MERCEDES	1
+338,MERCEDES	1
+339,MERCEDES	1
+34,SMART	1
+340,MERCEDES	1
+341,MERCEDES	1
+342,MERCEDES	1
+343,MERCEDES	1
+344,MERCEDES	1
+345,MERCEDES	1
+346,MERCEDES	1
+347,MERCEDES	1
+348,MERCEDES	1
+349,MERCEDES	1
+35,SMART	1
+350,MERCEDES	1
+3500	198
+351,MERCEDES	1
+352,MERCEDES	1
+353,MERCEDES	1
+354,MERCEDES	1
+355,MERCEDES	1
+356,MERCEDES	1
+357,MERCEDES	1
+359,MERCEDES	1
+36,SMART	1
+360,MERCEDES	1
+361,MERCEDES	1
+362,MERCEDES	1
+363,MERCEDES	1
+364,MERCEDES	1
+365,MERCEDES	1
+366,MERCEDES	1
+367,MERCEDES	1
+368,MERCEDES	1
+369,MERCEDES	1
+37,SMART	1
+370,MERCEDES	1
+371,MERCEDES	1
+372,MERCEDES	1
+373,MERCEDES	1
+374,MERCEDES	1
+375,MERCEDES	1
+376,MERCEDES	1
+377,MERCEDES	1
+378,MERCEDES	1
+38,SMART	1
+380,MERCEDES	1
+381,NISSAN	1
+382,NISSAN	1
+383,NISSAN	1
+384,NISSAN	1
+385,NISSAN	1
+386,NISSAN	1
+387,NISSAN	1
+388,NISSAN	1
+389,MERCEDES	1
+39	1
+39,SMART	1
+390,MERCEDES	1
+391,MERCEDES	1
+392,MERCEDES	1
+393,MERCEDES	1
+394,MERCEDES	1
+395,MERCEDES	1
+396,MERCEDES	1
+397,MERCEDES	1
+398,MERCEDES	1
+399,MERCEDES	1
+3P	1
+3T3	4
+3T5	4
+4	5
+4,AUDI	1
+40	2
+40,SMART	1
+400	1
+401,MERCEDES	1
+402,MERCEDES	1
+403,MERCEDES	1
+404,MERCEDES	1
+405,MERCEDES	1
+406,MERCEDES	1
+407,MERCEDES	1
+408,MERCEDES	1
+409,MERCEDES	1
+41,SMART	1
+410,MERCEDES	1
+411,MERCEDES	1
+412,MERCEDES	1
+413,MERCEDES	1
+414,MERCEDES	1
+415,MERCEDES	1
+416,MERCEDES	1
+417,MERCEDES	1
+418,MERCEDES	1
+419,MERCEDES	1
+42,SMART	1
+420,MERCEDES	1
+422,MERCEDES	1
+423,MERCEDES	1
+424,MERCEDES	1
+425,MERCEDES	1
+426,MERCEDES	1
+427,MERCEDES	1
+428,MERCEDES	1
+429,MERCEDES	1
+430,MERCEDES	1
+431,MERCEDES	1
+432,MERCEDES	1
+433,MERCEDES	1
+434,MERCEDES	1
+435,MERCEDES	1
+436,MERCEDES	1
+437,MERCEDES	1
+438,MERCEDES	1
+439,MERCEDES	1
+44,TESLA	1
+440,MERCEDES	1
+441,MERCEDES	1
+443,MERCEDES	1
+444,MERCEDES	1
+445,MERCEDES	1
+446,MERCEDES	1
+447,MERCEDES	1
+448,MERCEDES	1
+449,MERCEDES	1
+45,TESLA	1
+450,MERCEDES	1
+451,MERCEDES	1
+452,MERCEDES	1
+453,MERCEDES	1
+454,MERCEDES	1
+455,MERCEDES	1
+456,MERCEDES	1
+457,MERCEDES	1
+458,MERCEDES	1
+459,MERCEDES	1
+46,TESLA	1
+47,TESLA	1
+48,TESLA	1
+49,TESLA	1
+4MATIC,-,50,98 €	2
+4MATIC,-6 000€ 1,0,291 €	1
+4PL,-,69,78 €	2
+4WD	1
+4x2	238
+4x4	40
+5,AUDI	1
+50	4
+50,TESLA	1
+508	2
+51,TESLA	1
+52,TESLA	1
+53,VOLKSWAGEN	1
+530e	5
+54,VOLKSWAGEN	1
+55	4
+55,VOLKSWAGEN	1
+56,VOLKSWAGEN	1
+560	1
+57,HYUNDAI	1
+58,KIA	1
+59,MERCEDES	1
+5P	4
+5PL,-,69,78 €	2
+6,-,40,54 €	2
+6,BMW	1
+60,MERCEDES	1
+61,MERCEDES	1
+62,PEUGEOT	1
+63,PEUGEOT	1
+64	1
+65,SKODA	1
+66,SKODA	1
+67,SKODA	1
+68,SKODA	1
+69,SKODA	1
+6V,55,courte,5,3,blanc,false,12200	1
+6V,55,courte,5,3,blanc,true,8540	1
+6V,55,courte,5,3,bleu,false,12200	1
+6V,55,courte,5,3,bleu,true,8540	1
+6V,55,courte,5,3,gris,false,12200	1
+6V,55,courte,5,3,gris,true,8540	1
+6V,55,courte,5,3,noir,false,12200	1
+6V,55,courte,5,3,noir,true,8540	1
+6V,55,courte,5,3,rouge,false,12200	1
+6V,55,courte,5,3,rouge,true,8540	1
+7	3
+7,-,41,75 €	1
+7,-,42,105 €	1
+7,-,45,105 €	1
+7,-,49,105 €	1
+7,BMW	1
+70,SKODA	1
+71,SKODA	1
+72,SKODA	1
+73,"VOLKSWAGEN	1
+74,"VOLKSWAGEN	1
+745Le	1
+745Le,-,50,62 €	1
+745e	1
+75,"VOLKSWAGEN	1
+76,"VOLKSWAGEN	1
+77,"VOLKSWAGEN	1
+78,"VOLKSWAGEN	1
+79,"VOLKSWAGEN	1
+8	1
+8,-,39,64 €	1
+8,-,39,75 €	1
+8,-,40,67 €	1
+8,-,40,78 €	2
+8,-,42,67 €	2
+8,-,48,77 €	2
+8,CITROEN	1
+80,"VOLKSWAGEN	1
+81,TOYOTA	1
+82,DS	1
+83,KIA	1
+84,PEUGEOT	1
+86,MERCEDES	1
+87	1
+87,MERCEDES	1
+88,BMW	1
+89,BMW	1
+8PL	4
+9,CITROEN	1
+90,BMW	1
+91,MERCEDES	1
+92,BMW	1
+93,BMW	1
+94,MERCEDES	1
+95,MERCEDES	1
+96,MERCEDES	1
+97,MERCEDES	1
+98,MERCEDES	1
+99,VOLVO	1
+9PL	4
+:	1
+A	2
+A",-,31,56 €	4
+A,-,31,85 €	4
+A,-,40,54 €	2
+A,-6 000€ 1,0,209 €	2
+A3	2
+A7	1
+Active	2
+Ah,-6 000€ 1,0,204 €	2
+Audi,A2	10
+Audi,A3	10
+Automatique	1
+B	5
+B",-,31,56 €	4
+B,-,31,85 €	4
+BENTAYGA	2
+BERLINGO,-6 000€ 1,0,203 €	1
+BMW,120i,150,moyenne,5,5,blanc,false,35800	1
+BMW,120i,150,moyenne,5,5,blanc,true,25060	1
+BMW,120i,150,moyenne,5,5,bleu,false,35800	1
+BMW,120i,150,moyenne,5,5,bleu,true,25060	1
+BMW,120i,150,moyenne,5,5,gris,false,35800	1
+BMW,120i,150,moyenne,5,5,gris,true,25060	1
+BMW,120i,150,moyenne,5,5,noir,false,35800	1
+BMW,120i,150,moyenne,5,5,noir,true,25060	1
+BMW,120i,150,moyenne,5,5,rouge,false,35800	1
+BMW,120i,150,moyenne,5,5,rouge,true,25060	1
+BMW,M5,507,tr�s	10
+BUSINESS	1
+BVA6	1
+BVM6,+8 753€,200,810 €	8
+Beatle	10
+Berline	4
+Berline,-,36,54 €	2
+Berline,-,36,60 €	1
+Berline,-,47,54 €	3
+Berline,-,48,62 €	1
+BlueHDi	1
+C	9
+C-ZERO,-6 000€ 1,0,491 €	1
+CABRIO	2
+CABRIO,-6 000€ 1,0,175 €	1
+CAYENNE	6
+CDI	276
+CEE)	1
+CITIGOe	1
+CO2	1
+COMBI	8
+COUPE	3
+COUPE,-6 000€ 1,0,175 €	1
+CROSSBACK	2
+Combi	280
+Cooper	2
+Countryman	1
+CoupÃ©,-,42,66 €	1
+DCT	1
+DCT6	1
+DS3	1
+DS7	1
+DSG6	10
+Dacia,Logan	5
+Daihatsu,Cuore	5
+E	5
+E-	1
+E-HYBRID,-,58,75 €	2
+E-HYBRID,-,58,84 €	2
+E-HYBRID,-,70,98 €	2
+E-HYBRID,-,72,84 €	4
+E-HYBRID,-,74,98 €	2
+E-TENSE	1
+E-TRON	4
+E-Tense	1
+EAT8	1
+EAT8,-,31,67 €	2
+EAT8,-,33,67 €	1
+ENGINE	4
+EQ	11
+EQC	1
+EV400	1
+Electrique	2
+Engine	8
+Engineered,-,48,75 €	1
+FORFOUR	3
+FORFOUR,-6 000€ 1,0,175 €	1
+FORTWO	7
+FSI,150,longue,7,5,blanc,false,27340	1
+FSI,150,longue,7,5,blanc,true,19138	1
+FSI,150,longue,7,5,bleu,false,27340	1
+FSI,150,longue,7,5,bleu,true,19138	1
+FSI,150,longue,7,5,gris,false,27340	1
+FSI,150,longue,7,5,gris,true,19138	1
+FSI,150,longue,7,5,noir,false,27340	1
+FSI,150,longue,7,5,noir,true,19138	1
+FSI,150,longue,7,5,rouge,false,27340	1
+FSI,150,longue,7,5,rouge,true,19138	1
+FSI,150,moyenne,5,5,blanc,false,22900	1
+FSI,150,moyenne,5,5,blanc,false,28500	1
+FSI,150,moyenne,5,5,blanc,true,16029	1
+FSI,150,moyenne,5,5,blanc,true,19950	1
+FSI,150,moyenne,5,5,bleu,false,22900	1
+FSI,150,moyenne,5,5,bleu,false,28500	1
+FSI,150,moyenne,5,5,bleu,true,16029	1
+FSI,150,moyenne,5,5,bleu,true,19950	1
+FSI,150,moyenne,5,5,gris,false,22900	1
+FSI,150,moyenne,5,5,gris,false,28500	1
+FSI,150,moyenne,5,5,gris,true,16029	1
+FSI,150,moyenne,5,5,gris,true,19950	1
+FSI,150,moyenne,5,5,noir,false,22900	1
+FSI,150,moyenne,5,5,noir,false,28500	1
+FSI,150,moyenne,5,5,noir,true,16029	1
+FSI,150,moyenne,5,5,noir,true,19950	1
+FSI,150,moyenne,5,5,rouge,false,22900	1
+FSI,150,moyenne,5,5,rouge,false,28500	1
+FSI,150,moyenne,5,5,rouge,true,16029	1
+FSI,150,moyenne,5,5,rouge,true,19950	1
+Fi	12
+Fiat,Croma	10
+Ford,Mondeo	10
+GDi	2
+GLC	2
+GTE	2
+Geartronic	10
+Golf	2
+HYBRID,-,84,102 €	2
+Hatch	1
+Honda,FR-V	5
+Hyb.	10
+Hybride	1
+Hyunda�,Matrix	5
+I-PACE	1
+INSTYLE	1
+INTENSE	1
+INVITE	1
+ION	1
+IONIQ	1
+ISG	1
+Jaguar,X-Type	10
+KONA	2
+Kia,Picanto	5
+LEAF,-6 000€ 1,0,155 €	1
+LEAF,-6 000€ 1,0,177 €	1
+LWB	2
+Lancia,Ypsilon	10
+MINI	2
+MODEL	9
+MPI,90,moyenne,5,5,blanc,false,7500	1
+MPI,90,moyenne,5,5,bleu,false,7500	1
+MPI,90,moyenne,5,5,gris,false,7500	1
+MPI,90,moyenne,5,5,noir,false,7500	1
+MPI,90,moyenne,5,5,rouge,false,7500	1
+MY19	1
+MY19&BUSINES	1
+Malus,Rejets	1
+Mbr	3
+Mercedes,A200,136,moyenne,5,5,blanc,false,25900	1
+Mercedes,A200,136,moyenne,5,5,blanc,true,18130	1
+Mercedes,A200,136,moyenne,5,5,bleu,false,25900	1
+Mercedes,A200,136,moyenne,5,5,bleu,true,18130	1
+Mercedes,A200,136,moyenne,5,5,gris,false,25900	1
+Mercedes,A200,136,moyenne,5,5,gris,true,18130	1
+Mercedes,A200,136,moyenne,5,5,noir,false,25900	1
+Mercedes,A200,136,moyenne,5,5,noir,true,18130	1
+Mercedes,A200,136,moyenne,5,5,rouge,false,25900	1
+Mercedes,A200,136,moyenne,5,5,rouge,true,18130	1
+Mercedes,S500,306,tr�s	10
+Mini,Copper	10
+Mode	8
+Modele,Bonus	1
+Moteur	4
+NIRO	1
+NISSAN	2
+NV400	8
+Nissan,Almera	5
+Nissan,Maxima	5
+Nissan,Primera	5
+Nouvelle	3
+OPTIMA	1
+OUTLANDER	2
+P400e	5
+PANAMERA	8
+PARTNER,-6 000€ 1,0,203 €	1
+PHEV	10
+PRIUS	1
+PTAC	278
+Passat	8
+Peugeot,1007	10
+Polestar	1
+PureTech	2
+Q5	3
+RANGE	5
+ROVER	10
+Rech.	8
+Recharg.	2
+Rechargeable	1
+Renault,Espace	10
+Renault,Laguna	10
+Renault,Megane	10
+Renault,Vel	10
+Roadster,-,42,68 €	1
+S	14
+S&S,-,33,66 €	1
+S-PHEV,-,85,105 €	2
+S/S+rec	2
+S60	2
+S90	1
+SE	2
+SOUL	2
+SPORT	1
+SPORTBACK	2
+SPRINTER	276
+SUPERB	8
+SW	5
+SWB	2
+Saab,9.3	10
+Satis	10
+Seat,Toledo	5
+Skoda,Superb	5
+Solar,-,32,43 €	1
+Spl	1
+Sportback	1
+Start/Stop	8
+SystÃ¨me	2
+T5	1
+T6,272,tr�s	10
+T8	10
+TFSI	4
+TSI	8
+TURBO	6
+TWIN	4
+Tense	1
+Toit	276
+Tourer	2
+Tourer,-,42,60 €	1
+Tourer,-,52,80 €	1
+Traction	2
+Twin	8
+V6,193,tr�s	5
+V6,197,longue,5,5,blanc,false,37100	1
+V6,197,longue,5,5,blanc,true,25970	1
+V6,197,longue,5,5,bleu,false,37100	1
+V6,197,longue,5,5,bleu,true,25970	1
+V6,197,longue,5,5,gris,false,37100	1
+V6,197,longue,5,5,gris,true,25970	1
+V6,197,longue,5,5,noir,false,37100	1
+V6,197,longue,5,5,noir,true,25970	1
+V6,197,longue,5,5,rouge,false,37100	1
+V6,197,longue,5,5,rouge,true,25970	1
+V6,200,tr�s	5
+V6,245,tr�s	10
+V60	1
+V90	2
+VITO	2
+Volkswagen,Golf	10
+Volkswagen,New	10
+Volkswagen,Polo	10
+Volkswagen,Touran	10
+Volvo,S80	10
+X	2
+X5	4
+XC40	1
+XC60	2
+XC90	2
+ZOE	3
+aimant	2
+ar	4
+bat	8
+ch)	1
+ch),-6 000€ 1,0,221 €	1
+coffre	8
+court	52
+d,-,38,78 €	1
+dCi	8
+dans	8
+de,-,38,75 €	2
+de,-,38,78 €	1
+e	6
+e,-,30,62 €	1
+e,-,30,74 €	2
+e,-,35,75 €	2
+e,-,37,78 €	1
+e,-,39,75 €	1
+e,-,46,78 €	1
+e,-,47,78 €	1
+e,-,57,84 €	1
+e-Golf	2
+e-NIRO	2
+e-tron	2
+e-up!	2
+eVITO	2
+electric	2
+electrique	1
+enerie	1
+ess	4
+essence	2
+extra-long	1
+famille	8
+fbl	4
+g/km,Cout	1
+hybride	2
+i3	1
+i3s	1
+i8	2
+iV,-6 000€ 1,0,210 €	1
+kW	9
+kWh,-6 000€ 1,0,205 €	2
+kg	276
+long	45
+longue,5,5,blanc,false,101300	1
+longue,5,5,blanc,false,30000	1
+longue,5,5,blanc,false,31790	1
+longue,5,5,blanc,false,49200	1
+longue,5,5,blanc,false,50500	1
+longue,5,5,blanc,false,94800	1
+longue,5,5,blanc,true,34440	1
+longue,5,5,blanc,true,35350	1
+longue,5,5,blanc,true,66360	1
+longue,5,5,blanc,true,70910	1
+longue,5,5,bleu,false,101300	1
+longue,5,5,bleu,false,30000	1
+longue,5,5,bleu,false,31790	1
+longue,5,5,bleu,false,49200	1
+longue,5,5,bleu,false,50500	1
+longue,5,5,bleu,false,94800	1
+longue,5,5,bleu,true,34440	1
+longue,5,5,bleu,true,35350	1
+longue,5,5,bleu,true,66360	1
+longue,5,5,bleu,true,70910	1
+longue,5,5,gris,false,101300	1
+longue,5,5,gris,false,30000	1
+longue,5,5,gris,false,31790	1
+longue,5,5,gris,false,49200	1
+longue,5,5,gris,false,50500	1
+longue,5,5,gris,false,94800	1
+longue,5,5,gris,true,34440	1
+longue,5,5,gris,true,35350	1
+longue,5,5,gris,true,66360	1
+longue,5,5,gris,true,70910	1
+longue,5,5,noir,false,101300	1
+longue,5,5,noir,false,30000	1
+longue,5,5,noir,false,31790	1
+longue,5,5,noir,false,49200	1
+longue,5,5,noir,false,50500	1
+longue,5,5,noir,false,94800	1
+longue,5,5,noir,true,34440	1
+longue,5,5,noir,true,35350	1
+longue,5,5,noir,true,66360	1
+longue,5,5,noir,true,70910	1
+longue,5,5,rouge,false,101300	1
+longue,5,5,rouge,false,30000	1
+longue,5,5,rouge,false,31790	1
+longue,5,5,rouge,false,49200	1
+longue,5,5,rouge,false,50500	1
+longue,5,5,rouge,false,94800	1
+longue,5,5,rouge,true,34440	1
+longue,5,5,rouge,true,35350	1
+longue,5,5,rouge,true,66360	1
+longue,5,5,rouge,true,70910	1
+marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix	1
+motrices,-6 000€ 1,0,271 €	1
+my20,-,40,98 €	2
+normal	180
+optDCC	1
+permanent,	2
+plat,+6 810€,178,715 €	4
+plat,+7 073€,179,715 €	6
+plat,+7 340€,180,725 €	8
+plat,+7 613€,181,725 €	4
+plat,+7 890€,182,725 €	14
+plat,+8 173€,183,736 €	8
+plat,+8 460€,184,736 €	9
+plat,+8 753€,185,736 €	8
+plat,+8 753€,186,746 €	8
+plat,+8 753€,187,746 €	9
+plat,+8 753€,189,757 €	8
+plat,+8 753€,197,789 €	14
+plat,+8 753€,199,799 €	2
+plat,+8 753€,200,799 €	12
+plat,+8 753€,207,831 €	2
+plat,+8 753€,210,841 €	2
+plat,+8 753€,214,862 €	1
+plat,+8 753€,216,862 €	1
+plat,+8 753€,217,873 €	1
+plat,+8 753€,218,873 €	1
+plat,+8 753€,219,873 €	2
+plat,+8 753€,221,883 €	1
+plat,+8 753€,222,883 €	1
+plat,+8 753€,229,915 €	1
+plat,+8 753€,232,925 €	1
+plat,+8 753€,237,946 €	1
+plat,+8 753€,240,957 €	2
+plat,+8 753€,243,967 €	1
+plat,+8 753€,243,978 €	1
+plat,+8 753€,245,978 €	1
+plat,+8 753€,246,988 €	1
+plat,+8 753€,249,988 €	1
+plat,+8 753€,250,999 €	1
+plat,+8 753€,252,1 009 €	2
+plat,+8 753€,255,1 020 €	1
+plat,+8 753€,260,1 041 €	1
+plat,+8 753€,262,1 051 €	1
+plug-in,-,26,43 €	1
+pneu	8
+quattro	2
+quattro,-,45,105 €	1
+quattro,-6 000€ 1,0,319 €	1
+quattro,-6 000€ 1,0,356 €	2
+quattro,-6 000€ 1,0,357 €	1
+rechargeable	2
+res	4
+rlt	4
+roues	1
+standard	4
+std,-6 000€ 1,0,185 €	2
+surÃ©levÃ©,+6 810€,178,715 €	3
+surÃ©levÃ©,+7 073€,179,715 €	7
+surÃ©levÃ©,+7 340€,180,725 €	6
+surÃ©levÃ©,+7 613€,181,725 €	3
+surÃ©levÃ©,+7 890€,182,725 €	13
+surÃ©levÃ©,+8 173€,183,736 €	6
+surÃ©levÃ©,+8 460€,184,736 €	8
+surÃ©levÃ©,+8 753€,185,736 €	6
+surÃ©levÃ©,+8 753€,186,746 €	6
+surÃ©levÃ©,+8 753€,187,746 €	8
+surÃ©levÃ©,+8 753€,189,757 €	6
+surÃ©levÃ©,+8 753€,197,789 €	11
+surÃ©levÃ©,+8 753€,199,799 €	2
+surÃ©levÃ©,+8 753€,200,799 €	9
+surÃ©levÃ©,+8 753€,207,831 €	2
+surÃ©levÃ©,+8 753€,210,841 €	2
+surÃ©levÃ©,+8 753€,214,862 €	2
+surÃ©levÃ©,+8 753€,216,862 €	2
+surÃ©levÃ©,+8 753€,217,873 €	2
+surÃ©levÃ©,+8 753€,218,873 €	2
+surÃ©levÃ©,+8 753€,219,873 €	3
+surÃ©levÃ©,+8 753€,221,883 €	2
+surÃ©levÃ©,+8 753€,222,883 €	1
+surÃ©levÃ©,+8 753€,229,915 €	1
+surÃ©levÃ©,+8 753€,232,925 €	1
+surÃ©levÃ©,+8 753€,237,946 €	2
+surÃ©levÃ©,+8 753€,240,957 €	3
+surÃ©levÃ©,+8 753€,243,967 €	1
+surÃ©levÃ©,+8 753€,243,978 €	2
+surÃ©levÃ©,+8 753€,245,978 €	1
+surÃ©levÃ©,+8 753€,246,988 €	2
+surÃ©levÃ©,+8 753€,249,988 €	1
+surÃ©levÃ©,+8 753€,250,999 €	1
+surÃ©levÃ©,+8 753€,252,1 009 €	3
+surÃ©levÃ©,+8 753€,255,1 020 €	2
+surÃ©levÃ©,+8 753€,260,1 041 €	1
+surÃ©levÃ©,+8 753€,262,1 051 €	1
+synchrone	2
+tronic	5
+xDrive	2
+xDrive,-,55,62 €	1
+xDrive45e,-,38,83 €	2
+xDrive45e,-,45,83 €	2
+Ã 	2
+Ã©lectrique	6

@@ -17,6 +17,16 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+    volumes:
+    - ./hdfs_init:/hdfs_init
+  entrypoint:
+    - /bin/sh
+    - -c
+    - |
+      echo "Attente du NameNode..."
+      until nc -z hadoop-namenode 8020; do sleep 5; done
+      echo "NameNode prêt !"
+      /hdfs_init/hdfs_init.sh
 
   hadoop-datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -107,6 +117,7 @@ services:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
+      - ./mongo_init:/docker-entrypoint-initdb.d
 
   cassandra:
     image: cassandra:3.11
