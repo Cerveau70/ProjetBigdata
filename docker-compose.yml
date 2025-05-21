@@ -1,0 +1,135 @@
+version: '3.8'
+
+services:
+  hadoop-namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-namenode
+    hostname: hadoop-namenode
+    ports:
+      - 9000:9000
+      - 9870:9870
+      - 8020:8020
+    environment:
+      - CLUSTER_NAME=test
+      - CORE_CONF_fs_defaultFS=hdfs://hadoop-namenode:8020
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9870"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  hadoop-datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-datanode
+    hostname: hadoop-datanode
+    depends_on:
+      - hadoop-namenode
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://hadoop-namenode:8020
+      - HDFS_CONF_dfs_replication=1
+      - HDFS_CONF_dfs_namenode_datanode_registration_ip___hostname___check=false
+    volumes:
+      - ./data/hdfs/datanode:/hadoop/dfs/data
+
+  postgres-metastore:
+    image: postgres:13-alpine
+    container_name: postgres-metastore
+    environment:
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive
+      POSTGRES_DB: metastore
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+
+  hive-metastore:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-metastore
+    hostname: hive-metastore
+    environment:
+      - HIVE_METASTORE_DB_TYPE=postgres
+      - HIVE_JDBC_URL=jdbc:postgresql://postgres-metastore:5432/metastore
+      - HIVE_DB=metastore
+      - HIVE_USER=hive
+      - HIVE_PASSWORD=hive
+      - SERVICE_NAME=metastore
+      - HIVE_CONF_hive_metastore_uris=thrift://hive-metastore:9083
+      - CORE_CONF_fs_defaultFS=hdfs://hadoop-namenode:8020
+    depends_on:
+      - postgres-metastore
+      - hadoop-namenode
+      - hadoop-datanode
+    ports:
+      - "9083:9083"
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |
+        echo "Attente du NameNode sur hadoop-namenode:8020..."
+        until nc -z hadoop-namenode 8020; do
+          echo "NameNode pas prêt, attente 5 secondes..."
+          sleep 5
+        done
+        echo "NameNode prêt ! Démarrage du Metastore..."
+        /opt/hive/bin/hive --service metastore
+
+  hive-server:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-server
+    hostname: hive-server
+    ports:
+      - "10000:10000" # HiveServer2
+    depends_on:
+      - hive-metastore
+      - hadoop-namenode
+      - hadoop-datanode
+    environment:
+      - SERVICE_NAME=hiveserver2
+      - HIVE_METASTORE_URI=thrift://hive-metastore:9083
+      - CORE_CONF_fs_defaultFS=hdfs://hadoop-namenode:8020
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |
+        echo "Attente du NameNode sur hadoop-namenode:8020..."
+        until nc -z hadoop-namenode 8020; do
+          echo "NameNode pas prêt, attente 5 secondes..."
+          sleep 5
+        done
+        echo "NameNode prêt ! Démarrage de HiveServer2..."
+        /opt/hive/bin/hive --service hiveserver2
+
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  cassandra:
+    image: cassandra:3.11
+    container_name: cassandra
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_START_RPC=true
+    volumes:
+      - cassandra_data:/var/lib/cassandra
+
+  rstudio:
+    image: rocker/rstudio
+    container_name: rstudio
+    ports:
+      - "8787:8787"
+    environment:
+      - PASSWORD=motdepasse123
+    volumes:
+      - ./R:/home/rstudio
+
+volumes:
+  hadoop_namenode:
+  hadoop_datanode:
+  mongo_data:
+  cassandra_data:
