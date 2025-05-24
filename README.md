@@ -1,4 +1,4 @@
-# ProjetBigdata
+# Système de recommandation basé sur les données clients, de vente et de marketing.
 
 ## Objectif général du projet
 
