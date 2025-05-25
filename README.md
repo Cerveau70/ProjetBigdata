@@ -12,8 +12,3 @@ Analyser la clientèle d’un concessionnaire automobile pour recommander des mo
  ### CO2.csv
 
 ## Répartition des fichiers :
-
-Source de stockage--------------------Fichiers
-
-HDFS (Hadoop)	         ---------->   CO2.csv, Catalogue.csv
-Client_0.csv           ---------->   MongoDB	
